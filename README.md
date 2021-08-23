@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @SrDiossa
+- 👀 I’m interested in learning web coding
+- 🌱 I’m currently learning HTML, CSS AND JAVASCRIPT
+- 💞️ I’m looking to collaborate on STILL DONT KNOW :D
